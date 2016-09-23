@@ -1,0 +1,5 @@
+删除文件夹和里面内容 git rm -rf dir
+添加 git add x.txt
+提交给本地库 git commit -m "x.txt"
+提交给远程库 git push origin master
+
